@@ -1,0 +1,20 @@
+"filename", "language", "PHP", "Shell Script", "SQL", "comment", "blank", "total"
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/app/DataTables/RunningTestBaronasDataTable.php", "PHP", -4, 0, 0, 0, 0, -4
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/app/Http/Controllers/BaronasDelapanBesarController.php", "PHP", 90, 0, 0, 1, 11, 102
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/app/Http/Controllers/RunningTestBaronasController.php", "PHP", 20, 0, 0, 0, 2, 22
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/app/Http/Controllers/User/BaronasDelapanBesarController.php", "PHP", 18, 0, 0, 0, 4, 22
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/app/Models/BaronasDelapanBesar.php", "PHP", 25, 0, 0, 0, 8, 33
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/app/Models/BaronasDelapanBesarMatch.php", "PHP", 23, 0, 0, 0, 7, 30
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/database/migrations/2023_03_03_000249_create_break_out_rooms_table.php", "PHP", 19, 0, 0, 10, 4, 33
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/database/migrations/2023_03_03_115816_create_running_test_baronas_table.php", "PHP", -1, 0, 0, 0, 0, -1
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/database/migrations/2023_03_03_200249_create_break_out_rooms_table.php", "PHP", -19, 0, 0, -10, -4, -33
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/database/migrations/2023_03_12_141346_create_baronas_delapan_besars_table.php", "PHP", 21, 0, 0, 10, 4, 35
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/database/migrations/2023_03_12_142215_create_baronas_delapan_besar_matches_table.php", "PHP", 21, 0, 0, 10, 4, 35
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/migrate.sql", "SQL", 0, 0, -11, 0, 0, -11
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/migratefresh.sh", "Shell Script", 0, 1, 0, 0, 1, 2
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/resources/views/admin/baronas_delapan_besar/index.blade.php", "PHP", 266, 0, 0, 2, 14, 282
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/resources/views/admin/template/admin-template.blade.php", "PHP", 8, 0, 0, 0, 1, 9
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/resources/views/user/baronas/delapan_besar/index.blade.php", "PHP", 135, 0, 0, 7, 13, 155
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/resources/views/user/template/user-template.blade.php", "PHP", 8, 0, 0, 0, 1, 9
+"/Users/danendracleveroananda/Documents/Projects/evolution_23/routes/web.php", "PHP", 10, 0, 0, 2, 8, 20
+"Total", "-", 640, 1, -11, 32, 78, 740
